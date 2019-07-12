@@ -1,0 +1,18 @@
+body{
+    background: url(https://cdn.pixabay.com/photo/2017/08/12/10/13/background-2633962_960_720.jpg);
+}
+h1{
+    font-family: 'Impact';
+    text-decoration: overline dashed black;
+}
+p{
+    color: lightslategrey;
+}
+h2{
+    font-family: 'courier';
+    font-weight: bold;
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
